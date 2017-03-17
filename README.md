@@ -6,7 +6,9 @@ The system functions as two seperate units. There is a master Spacely server tha
 
 Current Roadmap
 
+
 Rev.0
+
 -playback performance
 
 -codec compatibility
@@ -19,6 +21,7 @@ Rev.0
 
 
 Rev.1
+
 -network synced playback
 
 -define management layout and control
@@ -27,11 +30,17 @@ Rev.1
 
 -network file distrobution
 
+
 Rev.2 
+
 -network stream playback
+
 -dyndns integration
+
 -status on screen 
+
 -screen rotation(portrait vs landscape)
+
 -on device navigation?
 
 Dependancies
