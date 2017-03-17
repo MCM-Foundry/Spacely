@@ -8,18 +8,25 @@ Current Roadmap
 
 Rev.0
 -playback performance
+
 -codec compatibility
+
 -USB/sd harvester 
+
 -basic scheduling for content 
+
 +hardstop if not possible
+
 
 Rev.1
 -network synced playback
+
 -define management layout and control
+
 -start up scrips
+
 -network file distrobution
 
-Rev.2
 Rev.2 
 -network stream playback
 -dyndns integration
